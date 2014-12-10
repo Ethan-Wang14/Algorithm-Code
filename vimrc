@@ -20,6 +20,7 @@ set foldenable
 set tabstop=4
 set foldenable
 set foldmethod=indent
+set autoindent
 
 " insert matched {}
 inoremap ( ()<LEFT>
